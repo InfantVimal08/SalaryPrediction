@@ -1,1 +1,1 @@
-# SalaryPrediction
+# Salary-Prediction
